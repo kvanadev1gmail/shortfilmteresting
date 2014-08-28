@@ -1,6 +1,12 @@
+@import url(http://fonts.googleapis.com/css?family=Oswald:400,300);
+
 $body-bg: #B1D6D7;
 $navbar-default-bg: #C45442;
 $navbar-default-link-color: white;
 $brand-primary: #ff7700;
 $jumbotron-bg: #C8E1BE;
 @import 'bootstrap';
+
+.center{
+text-align: center;
+}
